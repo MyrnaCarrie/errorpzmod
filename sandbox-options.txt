@@ -1,0 +1,79 @@
+VERSION = 1,
+
+option ElectricWeaponMalfunction
+{
+    type = boolean,
+    default = true,
+    page = ElectricWeapon,
+    translation = UI_sandboxOption_ElectricWeaponMalfunction,
+}
+
+option ElectricWeaponBaseRiskPerUse
+{
+    type = double,
+    min = 0.01,
+    max = 0.20,
+    default = 0.02,
+    page = ElectricWeapon,
+    translation = UI_sandboxOption_ElectricWeaponBaseRisk,
+}
+
+option ElectricWeaponMaxRiskIncrease
+{
+    type = double,
+    min = 0.05,
+    max = 0.30,
+    default = 0.15,
+    page = ElectricWeapon,
+    translation = UI_sandboxOption_ElectricWeaponMaxRisk,
+}
+
+option ElectricWeaponCriticalRiskThreshold
+{
+    type = double,
+    min = 0.25,
+    max = 0.75,
+    default = 0.50,
+    page = ElectricWeapon,
+    translation = UI_sandboxOption_ElectricWeaponCriticalRisk,
+}
+
+option ElectricWeaponLowRiskMultiplier
+{
+    type = double,
+    min = 0.05,
+    max = 0.30,
+    default = 0.10,
+    page = ElectricWeapon,
+    translation = UI_sandboxOption_ElectricWeaponLowRisk,
+}
+
+option ElectricWeaponMediumRiskMultiplier
+{
+    type = double,
+    min = 0.20,
+    max = 0.50,
+    default = 0.30,
+    page = ElectricWeapon,
+    translation = UI_sandboxOption_ElectricWeaponMediumRisk,
+}
+
+option ElectricWeaponHighRiskMultiplier
+{
+    type = double,
+    min = 0.40,
+    max = 1.00,
+    default = 0.60,
+    page = ElectricWeapon,
+    translation = UI_sandboxOption_ElectricWeaponHighRisk,
+}
+
+option ElectricWeaponRiskIncreaseThreshold
+{
+    type = double,
+    min = 1.0,
+    max = 2.0,
+    default = 1.5,
+    page = ElectricWeapon,
+    translation = UI_sandboxOption_ElectricWeaponRiskIncrease,
+}

@@ -1,0 +1,7 @@
+ContextMenu_EN = {
+    ContextMenu_ElectricWeapon_AddBattery = "Insert Battery",
+    ContextMenu_ElectricWeapon_RemoveBattery = "Remove Battery",
+    ContextMenu_ElectricWeapon_NoBattery = "No battery is available",
+	ContextMenu_ElectricWeapon_DeactivateMode = "Deactivate",
+	ContextMenu_ElectricWeapon_ActivateMode ="Activate"
+}

@@ -1,0 +1,29 @@
+Sandbox_CN = {
+    -- 分类名称
+    Sandbox_ElectricWeapon = "电击武器设置",
+    
+    -- 选项翻译
+    Sandbox_UI_sandboxOption_ElectricWeaponMalfunction = "启用故障系统",
+    Sandbox_UI_sandboxOption_ElectricWeaponMalfunction_tooltip = "关闭后，武器将永远不会发生故障",
+    
+    Sandbox_UI_sandboxOption_ElectricWeaponBaseRisk = "基础使用风险",
+    Sandbox_UI_sandboxOption_ElectricWeaponBaseRisk_tooltip = "每次使用武器增加的基础风险值（默认：2%）",
+    
+   Sandbox_UI_sandboxOption_ElectricWeaponMaxRisk = "最大风险增加值",
+    Sandbox_UI_sandboxOption_ElectricWeaponMaxRisk_tooltip = "单次使用最大风险增加值（默认：15%）",
+    
+    Sandbox_UI_sandboxOption_ElectricWeaponCriticalRisk = "临界风险阈值",
+    Sandbox_UI_sandboxOption_ElectricWeaponCriticalRisk_tooltip = "超过此阈值后风险增加更快（默认：50%）",
+    
+    Sandbox_UI_sandboxOption_ElectricWeaponLowRisk = "低风险故障概率倍率",
+    Sandbox_UI_sandboxOption_ElectricWeaponLowRisk_tooltip = "低风险状态下故障概率的倍率（默认：0.10）",
+    
+    Sandbox_UI_sandboxOption_ElectricWeaponMediumRisk = "中风险故障概率倍率",
+    Sandbox_UI_sandboxOption_ElectricWeaponMediumRisk_tooltip = "中风险状态下故障概率的倍率（默认：0.30）",
+    
+    Sandbox_UI_sandboxOption_ElectricWeaponHighRisk = "高风险故障概率倍率",
+    Sandbox_UI_sandboxOption_ElectricWeaponHighRisk_tooltip = "高风险状态下故障概率的倍率（默认：0.60）",
+    
+    Sandbox_UI_sandboxOption_ElectricWeaponRiskIncrease = "临界风险增加倍率",
+    Sandbox_UI_sandboxOption_ElectricWeaponRiskIncrease_tooltip = "超过临界阈值后风险增加的倍率（默认：1.5）",
+}
