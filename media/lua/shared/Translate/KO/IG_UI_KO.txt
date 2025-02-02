@@ -1,0 +1,5 @@
+IGUI_KO = {
+
+IGUI_ItemCat_Equipped = "장착",
+
+}

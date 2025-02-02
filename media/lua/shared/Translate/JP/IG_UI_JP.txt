@@ -1,0 +1,5 @@
+IGUI_JP = {
+
+IGUI_ItemCat_Equipped = "装備されている",
+
+}

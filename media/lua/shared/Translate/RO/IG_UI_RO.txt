@@ -1,0 +1,5 @@
+IGUI_RO = {
+
+IGUI_ItemCat_Equipped = "Echipat",
+
+}

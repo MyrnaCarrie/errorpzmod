@@ -1,0 +1,5 @@
+IGUI_DE = {
+
+IGUI_ItemCat_Equipped = "Ausgerüstet",
+
+}

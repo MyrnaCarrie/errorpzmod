@@ -1,0 +1,5 @@
+IGUI_CA = {
+
+IGUI_ItemCat_Equipped = " Equipado",
+
+}

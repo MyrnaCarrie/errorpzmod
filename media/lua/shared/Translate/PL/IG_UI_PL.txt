@@ -1,0 +1,5 @@
+IGUI_PL = {
+
+IGUI_ItemCat_Equipped = "Wyposażone",
+
+}

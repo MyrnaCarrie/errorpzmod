@@ -1,0 +1,5 @@
+IGUI_NL = {
+
+IGUI_ItemCat_Equipped = "Uitgerust",
+
+}

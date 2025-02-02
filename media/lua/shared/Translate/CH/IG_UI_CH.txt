@@ -1,0 +1,5 @@
+IGUI_CH = {
+
+IGUI_ItemCat_Equipped = "装备精良",
+
+}
