@@ -1,5 +1,0 @@
-IGUI_CS = {
-
-IGUI_ItemCat_Equipped = "Vybaveno",
-
-}

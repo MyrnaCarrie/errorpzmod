@@ -1,5 +1,0 @@
-IGUI_TR = {
-
-IGUI_ItemCat_Equipped = "Donanımlı",
-
-}

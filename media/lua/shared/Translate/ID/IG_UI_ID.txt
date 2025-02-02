@@ -1,5 +1,0 @@
-IGUI_ID  = {
-
-IGUI_ItemCat_Equipped = "Dilengkapi",
-
-}

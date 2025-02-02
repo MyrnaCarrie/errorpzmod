@@ -1,5 +1,0 @@
-IGUI_TH = {
-
-IGUI_ItemCat_Equipped = " ติดตั้ง",
-
-}

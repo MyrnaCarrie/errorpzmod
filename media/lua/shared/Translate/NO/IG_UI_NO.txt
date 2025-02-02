@@ -1,5 +1,0 @@
-IGUI_NO = {
-
-IGUI_ItemCat_Equipped = "Utstyrt",
-
-}

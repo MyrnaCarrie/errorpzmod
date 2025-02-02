@@ -1,5 +1,0 @@
-IGUI_PH = {
-
-IGUI_ItemCat_Equipped = "Nilagyan",
-
-}

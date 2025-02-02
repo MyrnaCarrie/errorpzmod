@@ -1,5 +1,0 @@
-IGUI_DA = {
-
-IGUI_ItemCat_Equipped = "Udstyret",
-
-}

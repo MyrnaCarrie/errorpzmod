@@ -1,5 +1,0 @@
-IGUI_FI = {
-
-IGUI_ItemCat_Equipped = "Varustettu",
-
-}

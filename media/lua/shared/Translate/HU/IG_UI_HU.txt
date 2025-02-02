@@ -1,5 +1,0 @@
-IGUI_HU = {
-
-IGUI_ItemCat_Equipped = "Felszerelt",
-
-}

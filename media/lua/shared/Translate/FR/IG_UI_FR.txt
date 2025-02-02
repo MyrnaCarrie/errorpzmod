@@ -1,5 +1,0 @@
-IGUI_FR = {
-
-IGUI_ItemCat_Equipped = "Equipé",
-
-}
